@@ -1,0 +1,12 @@
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: rabbitmq
+    password: rabbitmq
+
+rabbit:
+    que: mail-que
+    exchange: mail-exc
+    route: mail-rou
+

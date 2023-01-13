@@ -1,0 +1,5 @@
+jwt:
+  issuer: localhost:9000
+  valid-seconds:
+    access: 4000
+    refresh: 5000
